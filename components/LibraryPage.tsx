@@ -44,6 +44,7 @@ const ALL_CONFLUENCE_TAGS = [
   '0.618 Fib',
   '0.5 Fib',
   '0.382 Fib',
+  'Liquidity Sweep',
 ]
 
 const OUTCOMES = ['win', 'loss', 'breakeven'] as const
